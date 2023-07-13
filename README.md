@@ -9,6 +9,11 @@ Projeto DSList - Intensivão Java Spring</p>
 Modelo de domínio DSList
 ![image](https://github.com/Paulo555Bispo/dslist-backend/assets/63209799/bd2f94e7-bd9f-451f-8759-dca8208a1e20)
 
+## ✔️ Técnicas e tecnologias utilizadas
 
+- ``Java 17``
+- ``InteliJ IDEA``
+- ``Spring``
+- ``Paradigma de orientação a objetos``
 
 
